@@ -1,0 +1,200 @@
+8
+
+dir
+361
+svn://svn.ps2dev.org/pspware/trunk/LuaPlayer
+svn://svn.ps2dev.org/pspware
+
+
+
+2007-06-25T22:45:26.915041Z
+361
+jim
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ff2c0c17-07fa-0310-a4bd-d48831021cb5
+
+LICENSE
+file
+
+
+
+
+2008-02-12T09:39:31.000000Z
+fc2a595721f7a0ef96877823d9de24c3
+2005-07-30T14:04:52.287344Z
+129
+shine
+
+Readme First.txt
+file
+
+
+
+
+2008-02-12T09:39:31.000000Z
+14bf6dff46f9630052fb08c29a61f267
+2005-10-02T17:20:26.375242Z
+234
+shine
+
+System
+dir
+
+Applications
+dir
+
+CHANGELOG
+file
+
+
+
+
+2008-02-12T09:39:31.000000Z
+70b68e3d93e90495e8d1272391451010
+2006-11-19T16:45:37.908558Z
+359
+shine
+
+src
+dir
+
+standalone
+dir
+
+title-icon.png
+file
+
+
+
+
+2008-02-12T09:39:31.000000Z
+85e089b0d96f03238872cf40135f7c45
+2005-07-30T14:04:52.287344Z
+129
+shine
+has-props
+
+title-icon.psd
+file
+
+
+
+
+2008-02-12T09:39:31.000000Z
+4f147767c8f53a2ce57d1b05ffcd597d
+2005-07-30T14:04:52.287344Z
+129
+shine
+has-props
+
+Readme (Lua coders).txt
+file
+
+
+
+
+2008-02-12T09:39:31.000000Z
+1f2ecd92d4a5361b13882b6f4fbc9eed
+2006-01-07T08:10:59.132626Z
+335
+shine
+
+Makefile.psp-standalone
+file
+
+
+
+
+2008-02-12T09:39:31.000000Z
+76e05330c54708529c85d78a9a4a3008
+2005-09-09T18:35:45.946096Z
+210
+shine
+
+samples
+dir
+
+doc
+dir
+
+Makefile.psp.common
+file
+
+
+
+
+2008-02-12T09:39:31.000000Z
+9968110bb845a079f331a08747a3fa4c
+2006-06-03T17:54:53.983208Z
+357
+shine
+has-props
+
+Makefile.windows
+file
+
+
+
+
+2008-02-12T09:39:31.000000Z
+944a991156c9003697c5d52de444363c
+2006-11-19T16:23:50.693848Z
+358
+shine
+has-props
+
+modules
+dir
+
+bootstrap
+dir
+
+Readme (LuaPlayer Core developers).txt
+file
+
+
+
+
+2008-02-12T09:39:31.000000Z
+c6e55805db15c2477699ed027ccab4f5
+2005-12-03T16:28:44.975594Z
+291
+shine
+
+Makefile
+file
+
+
+
+
+2008-02-12T09:39:31.000000Z
+e85127ecad16e40b38d93a852043a1dd
+2005-08-28T23:23:24.002415Z
+189
+nevyn
+
+Makefile.psp
+file
+
+
+
+
+2008-02-12T09:39:31.000000Z
+f36b65a3f69fb6e1f264a1f60d676990
+2006-06-03T00:25:42.518893Z
+356
+shine
+

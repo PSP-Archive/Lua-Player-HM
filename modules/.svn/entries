@@ -1,0 +1,64 @@
+8
+
+dir
+361
+svn://svn.ps2dev.org/pspware/trunk/LuaPlayer/modules
+svn://svn.ps2dev.org/pspware
+
+
+
+2006-06-03T00:25:42.518893Z
+356
+shine
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ff2c0c17-07fa-0310-a4bd-d48831021cb5
+
+loadlib
+dir
+
+sound
+dir
+
+simple
+dir
+
+effect
+dir
+
+Makefile
+file
+
+
+
+
+2008-02-12T09:39:31.000000Z
+76db401d76bb2ec1755c36b14edd60d8
+2006-04-11T01:51:00.411420Z
+353
+shine
+
+luamodule.h
+file
+
+
+
+
+2008-02-12T09:39:31.000000Z
+285e94820bdeb0c0e95eb0dbf19d9c89
+2006-04-04T11:00:27.821009Z
+350
+Oobles
+

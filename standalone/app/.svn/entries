@@ -1,0 +1,40 @@
+8
+
+dir
+361
+svn://svn.ps2dev.org/pspware/trunk/LuaPlayer/standalone/app
+svn://svn.ps2dev.org/pspware
+
+
+
+2005-09-09T17:12:57.639168Z
+208
+nevyn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ff2c0c17-07fa-0310-a4bd-d48831021cb5
+
+script.lua
+file
+
+
+
+
+2008-02-12T09:39:31.000000Z
+f0c2c95e6cf6154632ef8311693a82a7
+2005-09-09T17:12:57.639168Z
+208
+nevyn
+

@@ -1,0 +1,41 @@
+8
+
+dir
+361
+svn://svn.ps2dev.org/pspware/trunk/LuaPlayer/Applications/Starfield
+svn://svn.ps2dev.org/pspware
+
+
+
+2005-10-02T17:20:26.375242Z
+234
+shine
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ff2c0c17-07fa-0310-a4bd-d48831021cb5
+
+index.lua
+file
+
+
+
+
+2008-02-12T09:39:31.000000Z
+cd2919539b4d995370177f1a19182ea8
+2005-10-02T17:20:26.375242Z
+234
+shine
+has-props
+
